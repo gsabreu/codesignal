@@ -1,3 +1,4 @@
+package challenges; 
  class CheckPalindrome {
 
     boolean checkPalindrome(String inputString) {
