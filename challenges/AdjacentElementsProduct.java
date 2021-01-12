@@ -11,7 +11,6 @@ public class AdjacentElementsProduct {
                 product = total;
             }
         }
-     
         return product;
     }
 }
